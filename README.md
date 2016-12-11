@@ -1,6 +1,9 @@
 Coding Test
 ====================
 
+## Author
+
+__Ahsanuzzaman Khan__
 
 ## Question 1
 
@@ -56,7 +59,3 @@ $ python3 invite_customers.py
 $ python3 -m unittest tests_invite_customers.py
 ```
 
-
-## Author
-
-__Ahsanuzzaman Khan__
