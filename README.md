@@ -11,12 +11,12 @@ __What's your proudest achievement? It can be a personal project or something yo
 worked on professionally. Just a short paragraph is fine, but I'd love to know why
 you're proud of it, what impact it had (If any) and any insights you took from it.__
 
-I'm extremely proud of one of my ongoing projects, where I have to build a social media website in Python/Django REST from scratch. I did have good exprience with Django,
+I'm extremely proud of my ongoing projects, where I have to build a social media website in Python/Django REST from scratch. I have good exprience with Django,
 but had no idea about REST API where users will upload lots of photos and videos as well as do others things which are common any social media.
 
 I developed Backend, Database and Testing / QA, and performance analysis. I have to handle lots of requests at a time so I decided to 
 handle them asynchronously. I did necessary configuration with Python server (gunicorn) as well as postgresql (which can also handle requests asynchronously).
-The website now can handle over 10K pageviews simultenously including videos, photos uploading.
+The website now can handle over 10K requests simultenously including videos, photos uploading.
 
 This is an amazing learning experience, and taught me a lot about Python (wsgi) webservers (especially Gunicorn).
 
